@@ -28,5 +28,5 @@ This is a story mapping that I created to line up the features to deliver for th
 
 This is a high level system integration diagram that helped business stakeholders to understand the general flow with an external third-party vendor. 
 
-![Lighthouse Report](/images/systemintegrationartifact.png)
+![Lighthouse Report](/images/systemintegrationartifact.jpg)
 
