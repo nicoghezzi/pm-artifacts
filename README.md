@@ -18,6 +18,14 @@ This is a workflow that helped an offshore development team to have a clear pict
 
 ![Lighthouse Report](/images/deploymentworkflowartifact.png)
 
+## CICD Pipeline
+
+This is basic CI/CD pipeline with 6 stages. However, after Test Stage you could add
+another stage for Security/Compliance, also after Deploy you could add Release Management.
+After Post-Deploy, it is important to add Observability/Monitoring to collect metrics, generate reports.
+
+![Lighthouse Report](/images/cicdpipelines.png)
+
 ## Story Mapping
 
 This is a story mapping that I created to line up the features to deliver for the MVP and future releases of a clinical trial plaftorm.
